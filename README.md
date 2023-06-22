@@ -7,5 +7,5 @@ Site desenvolvido para empresa BKconsultoriaambiental.
 https://github.com/ArturDuarte/BKconsultoriaambiental/issues/1#issue-1769601188
 
 <div alinhar="centro">
-<img src="https://github.com/ArturDuarte/BKconsultoriaambiental/issues/1#issue-1769601188.jpg" largura"700px" />
+<img src="https://user-images.githubusercontent.com/18275098/247933446-6be7bf6f-4f6b-47a5-b246-0bc531ea672c.png" largura"700px" />
 </div >
